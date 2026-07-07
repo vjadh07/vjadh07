@@ -1,16 +1,22 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080312,30:240046,65:5A189A,100:7B2CBF&text=Viraj%20Jadhav&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=CS%20%40%20ASU%20%C2%B7%20Founder%20of%20Still%20Frames&descAlignY=60&descSize=20&animation=fadeIn" alt="Viraj Jadhav" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=780&height=45&lines=I+build+products+the+whole+way+down;Backend%2C+systems%2C+UI%2C+and+the+deploy+button;Systems+and+style%2C+same+energy" alt="intro" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/virajjadhav7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/stillframes.co"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:vjadhav3@asu.edu"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=vjadh07&style=for-the-badge&color=7B2CBF&label=PROFILE+VIEWS" alt="profile views" />
+</p>
+
 ## 👋 Hey, I'm Viraj
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=C77DFF&width=760&height=42&lines=CS+at+ASU+and+founder+of+Still+Frames;I+build+products+the+whole+way+down;Systems+and+style%2C+same+energy" alt="intro" />
-
 I'm a CS student at Arizona State who likes building things the whole way down: the backend, the systems underneath, the UI on top, and the deploy button at the end. If it can be shipped, I want to own the path from idea to the thing people actually use. Lately that means a lot of applied AI in real product workflows. Off the clock I run a streetwear label called Still Frames, so my commits and my hoodies come from the same brain.
-
-### Find me around the web:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/virajjadhav7/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/stillframes.co" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:vjadhav3@asu.edu" target="blank"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 ### What I'm building
 
@@ -39,29 +45,36 @@ I'm a CS student at Arizona State who likes building things the whole way down: 
 - I will happily debug someone else's Arduino at 11pm.
 - Favorite layer of the stack: whichever one is currently on fire.
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vjadh07&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true" alt="GitHub Stats for Viraj" width="700">
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vjadh07&theme=radical" alt="profile details" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vjadh07&theme=jolly&hide_border=true" width="700">
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vjadh07&theme=radical" alt="stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vjadh07&theme=radical" alt="most commit language" />
+</p>
 
-My GitHub Skyline
-```
-                                @vjadh07's GitHub Skyline
-        ✦                 ✧          ✦   ▁              ✧       ✦
-        ☽      ✧               ✦      ██        ▃                ✧
-                 ▇     ✦   █   █ ▂▂ ▃ ██▇        █▄      ▄
-     ▁ ▂██▃ ▅▅▁▄█▇▅█▁▂▅██████▂ ▁█ ▃▆▆███▁▆   ▅▇██ ▁▂▃ █ ▅ ✦   ▂
-      ██████▁█████████████████████▇████████▅▆█████████████▇███▅
-```
-Regenerate your own with `gh skyline --year 2025` after installing GitHub CLI and the `github/skyline` extension.
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vjadh07&theme=radical" alt="repos per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vjadh07&theme=radical&utcOffset=-7" alt="productive time" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=vjadh07&theme=radical&hide_border=true" alt="streak" />
+</p>
 
 ### Watch my contribution graph get eaten by the snake 🐍
 
-<div align="left">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake.svg" />
     <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7B2CBF,45:5A189A,75:240046,100:080312" alt="footer" />
+</p>
