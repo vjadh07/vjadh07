@@ -64,7 +64,7 @@ I'm a CS student at Arizona State who likes building things the whole way down: 
 </p>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=vjadh07&theme=radical&hide_border=true" alt="streak" />
+  <img width="80%" src="https://github-readme-streak-stats-eight.vercel.app?user=vjadh07&theme=radical&hide_border=true" alt="streak" />
 </p>
 
 ### Watch my contribution graph get eaten by the snake 🐍
