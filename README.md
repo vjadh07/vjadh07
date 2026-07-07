@@ -1,93 +1,66 @@
-<h1 align="center">Viraj Jadhav</h1>
-
+[README.md](https://github.com/user-attachments/files/29726948/README.md)
 <p align="center">
-  Software Engineer · Full-Stack Developer · AI/ML Builder
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080312,35:240046,68:5A189A,100:7B2CBF&text=Viraj%20Jadhav&fontColor=FFFFFF&fontSize=56&fontAlignY=40&desc=End-to-End%20Product%20Builder%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Systems%20%E2%80%A2%20AI&descAlignY=62&descSize=17&animation=fadeIn" alt="Viraj Jadhav" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/virajjadhav7/">LinkedIn</a> ·
-  <a href="mailto:vjadhav3@asu.edu">Email</a> ·
-  <a href="https://github.com/vjadh07">GitHub</a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&repeat=true&width=760&height=45&lines=Building+and+shipping+products+end+to+end;Full-stack%2C+systems%2C+and+applied+AI;CS+at+ASU+and+founder+of+Still+Frames" alt="intro" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arizona%20State%20University-8C1D40?style=flat-square&logoColor=white" alt="ASU" />
+  <img src="https://img.shields.io/badge/Computer%20Science-FFC627?style=flat-square&logoColor=111111" alt="Computer Science" />
+  <a href="https://www.linkedin.com/in/virajjadhav7/"><img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vjadhav3@asu.edu"><img src="https://img.shields.io/badge/Email-7B2CBF?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## About
+### About
 
-I’m a Computer Science student at Arizona State University who enjoys building products end to end—from backend systems and APIs to user-facing applications.
+CS student at Arizona State who builds products the whole way down: backend, systems, UI, and deployment. I like owning the full path from idea to shipped thing. Currently working with applied AI in real product workflows, and running my own streetwear label, Still Frames, on the side.
 
-Right now, I’m focused on AI/ML for SaaS products, computer vision, and learning how to take ideas from prototype to production.
-
-I’m interested in software engineering, product engineering, AI/ML, and high-ownership roles at technology startups.
-
----
-
-## Experience
-
-### Software Engineering Intern — NexEra Corporate Private Limited
-**May 2025 – Present**
-
-- Built 10+ REST APIs and database workflows across three business domains.
-- Automated internal processes, reducing manual content handling by 40%.
-- Prototyped AI-assisted features for automation and decision support.
-
-### Undergraduate Teaching Assistant — Arizona State University
-**August 2023 – January 2024**
-
-- Supported 150+ students learning MATLAB and Arduino.
-- Led office hours, review sessions, and hands-on debugging support.
-- Helped frequent attendees improve assignment performance by an average of 20%.
-
----
-
-## Selected Projects
-
-### MyVideoJournal
-**Python · FastAPI · React · PostgreSQL**
-
-A full-stack platform for creating, storing, and retrieving video journal entries with structured metadata and persistent organization.
-
-### Still Frames
-**React · Node.js · Express · MongoDB · Stripe**
-
-An e-commerce platform with product management, checkout, payment verification, order processing, and inventory-aware workflows.
-
-### Operating System Kernel
-**C · C++ · Linux · x86_64 Assembly**
-
-A monolithic kernel with virtual memory management, ELF loading, paging, multicore support, a Round-Robin scheduler, and system calls.
-
-### CoreOrder Service
-**Python · Django · MySQL · Docker**
-
-A containerized backend service for order lifecycle management, inventory synchronization, stock validation, and transactional data integrity.
+### Tech
 
 <p>
-  <a href="https://github.com/vjadh07?tab=repositories">View all repositories →</a>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,react,nodejs,express,fastapi,django,postgres,mysql,mongodb,docker,linux,git&theme=dark&perline=16" alt="tech stack" />
 </p>
 
----
+### Projects
 
-## Tech
+**OS Kernel** &nbsp;&middot;&nbsp; x86_64 monolithic kernel in C, C++, and Assembly. Virtual memory, paging, ELF loading, a round-robin scheduler, syscalls, and multicore support.
 
-**Languages:** Python, C++, C, Java, JavaScript, SQL, HTML, CSS  
-**Frontend:** React  
-**Backend:** FastAPI, Django, Node.js, Express  
-**Databases:** PostgreSQL, MySQL, MongoDB  
-**Tools:** Git, GitHub, Docker, Linux
+**Still Frames** &nbsp;&middot;&nbsp; Storefront for my own streetwear label. Full-stack commerce with catalog, Stripe checkout, and order plus inventory workflows. *(React, Node, Express, MongoDB, Stripe)*
 
----
+**MyVideoJournal** &nbsp;&middot;&nbsp; Full-stack video journaling app: FastAPI backend, PostgreSQL data model, React interface for organizing and revisiting entries.
 
-## Currently Exploring
+**CoreOrder** &nbsp;&middot;&nbsp; Containerized order-management backend. Lifecycle state, stock validation, and inventory sync with normalized schemas. *(Django, MySQL, Docker)*
 
-- AI/ML for SaaS products
-- Computer vision
-- Production-ready AI systems
-- End-to-end product development
-- Startup engineering
+### Experience
+
+**Software Engineering Intern**, NexEra &nbsp;&middot;&nbsp; Shipped 10+ REST APIs across three business domains, automated backend workflows that cut manual content handling by ~40%, and prototyped AI-assisted features.
+
+**Undergraduate TA**, Arizona State &nbsp;&middot;&nbsp; Mentored 150+ students in MATLAB and Arduino through office hours and project debugging, with ~20% average assignment improvement among regulars.
+
+<sub>Also: former Cricket Club President at ASU, 750+ members and $6.5K raised in sponsorships.</sub>
 
 ---
 
 <p align="center">
-  Building useful products and learning how to ship them well.
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vjadh07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=F0F6FC&rank_icon=github&include_all_commits=true&count_private=true" alt="stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=vjadh07&hide_border=true&background=0D1117&stroke=7B2CBF&ring=C77DFF&fire=9D4EDD&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=C77DFF&sideLabels=9D4EDD&dates=8B949E" alt="streak" />
+</p>
+
+<p align="center">
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjadh07&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=F0F6FC&langs_count=8" alt="top languages" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7B2CBF,45:5A189A,75:240046,100:080312" alt="footer" />
 </p>
