@@ -7,10 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/virajjadhav7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/stillframes.co"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="mailto:vjadhav3@asu.edu"><img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <br/>
+  <a href="https://www.linkedin.com/in/virajjadhav7/"><img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://instagram.com/stillframes.co"><img src="https://skillicons.dev/icons?i=instagram" height="48" alt="Instagram" /></a>
+  &nbsp;
+  <a href="mailto:vjadhav3@asu.edu"><img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Email" /></a>
+  <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=vjadh07&style=for-the-badge&color=7B2CBF&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
