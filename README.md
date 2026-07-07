@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29726948/README.md)
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080312,35:240046,68:5A189A,100:7B2CBF&text=Viraj%20Jadhav&fontColor=FFFFFF&fontSize=56&fontAlignY=40&desc=End-to-End%20Product%20Builder%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Systems%20%E2%80%A2%20AI&descAlignY=62&descSize=17&animation=fadeIn" alt="Viraj Jadhav" />
 </p>
@@ -46,20 +45,13 @@ CS student at Arizona State who builds products the whole way down: backend, sys
 
 ---
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vjadh07&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=F0F6FC&rank_icon=github&include_all_commits=true&count_private=true" alt="stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=vjadh07&hide_border=true&background=0D1117&stroke=7B2CBF&ring=C77DFF&fire=9D4EDD&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=C77DFF&sideLabels=9D4EDD&dates=8B949E" alt="streak" />
-</p>
-
-<p align="center">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjadh07&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=F0F6FC&langs_count=8" alt="top languages" />
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake.svg" />
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake.svg" />
+    <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/vjadh07/vjadh07/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7B2CBF,45:5A189A,75:240046,100:080312" alt="footer" />
